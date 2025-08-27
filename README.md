@@ -3,7 +3,7 @@ empty project for a quick setup of Claude in Docker+VSCode
 
 Motivation + bonus step-by-step github authorization setting here: [timsh.org](https://timsh.org/claude-inside-docker/)
 
-# Prerequisites: 
+# Prerequisites:
 - Docker installed
 - VSCode installed
 - Claude somehow paid for
@@ -17,4 +17,8 @@ Motivation + bonus step-by-step github authorization setting here: [timsh.org](h
 - in the automatically opened terminal tab you'll see that you're inside docker
 - type `claude` to activate Claude Code
 
-You're all set! 
+You're all set!
+
+
+
+fdffd
